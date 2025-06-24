@@ -1,2 +1,2 @@
-# agile-planning-lab
-This lab contains the lab for agile planning 
+# agile-planning
+This lab contains agile planning steps.
