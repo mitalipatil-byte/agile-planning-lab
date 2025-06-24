@@ -1,2 +1,2 @@
 # agile-planning
-This lab contains agile planning steps.
+This project contains agile planning steps in the form of a Kanban Board.
